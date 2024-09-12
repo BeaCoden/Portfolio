@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Bea Pitzschke - Portfolio
+
+Welcome to the source repository for my personal portfolio website. This project showcases my skills and projects as a junior developer focused in frontend. It is built with React and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+- **CV**: You can find & download my CV in the website.
+- **Responsive Design**: The website is optimized for desktop and mobile devices.
+- **Dark Mode**: The website supports dark mode.
+
+You can also find more about my professional background and connect with me through [LinkedIn](https://www.linkedin.com/in/beapitzschke/) or send me an email at [Gmail](mailto:bea.pitzschke.coden@gmail.com).
+
+## Installation
+
+To run this project locally, you need to have Node.js installed. You can download it [here](https://nodejs.org/).
+
+- **Clone** the repository & **install** dependencies:
+
+```bash
+git clone <repository-url>
+```
+
+```bash
+npm install
+```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
